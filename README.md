@@ -12,10 +12,3 @@ In this project, I work with data from one of Africa's largest open data platfor
 ### Tools & Libraries
 * Python (PyMongo, Pandas, Matplotlib, Plotly, Scikit-learn)
 * NoSQL (MongoDB)
-
-## Featured Notebooks
-* [Nairobi Part 1](https://dpghazi.github.io/projects/data-wrangling-with-mongodb.html)
-* [Nairobi Part 2](https://dpghazi.github.io/projects/linear-regression-with-time-series-data.html)
-* [Nairobi Part 3](https://dpghazi.github.io/projects/autoregressive-models.html)
-* [Nairobi Part 4](https://dpghazi.github.io/projects/arma-models-and-hyperparameter-tuning.html)
-* [Dar es Salaam](https://dpghazi.github.io/projects/air-quality-in-dar-es-salaam.html)
