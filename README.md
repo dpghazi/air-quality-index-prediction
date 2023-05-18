@@ -10,14 +10,8 @@ In this project, I work with data from one of Africa's largest open data platfor
 - Improve models by tuning their hyperparameters
 
 ### Tools & Libraries
-* Python
-* NoSQL(MongoDB)
-* Jupyter
-* PyMongo
-* Pandas
-* Matplotlib
-* Plotly
-* Scikit-learn
+* Python (PyMongo, Pandas, Matplotlib, Plotly, Scikit-learn)
+* NoSQL (MongoDB)
 
 ## Featured Notebooks
 * [Nairobi Part 1](https://dpghazi.github.io/projects/data-wrangling-with-mongodb.html)
