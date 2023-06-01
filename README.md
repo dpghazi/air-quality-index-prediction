@@ -4,7 +4,7 @@
 In this project, I work with data from one of Africa's largest open data platforms, [openAfrica](https://africaopendata.org). I look at air quality data from Nairobi and Dar es Salaam, and build time series models to predict PM 2.5 readings throughout the day.
 
 ### Overview
-- Retreive data by querying MongoDB databases
+- Retreived data by querying MongoDB databases
 - Prepared time series data for analyses
 - Built autoregression models
 - Improved models by tuning their hyperparameters
