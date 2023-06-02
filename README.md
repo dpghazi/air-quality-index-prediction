@@ -14,4 +14,8 @@ In this project, I work with data from one of Africa's largest open data platfor
 * NoSQL (MongoDB)
 
 ### Featured Notebooks
-* [Dar es Salaam](https://wqudatascience.s3.amazonaws.com/air-quality-in-dar-es-salaam.html)
+* [Nairobi Part 1](https://dpghazi-wqu-ds.s3.amazonaws.com/data-wrangling-with-mongodb.html)
+* [Nairobi Part 2](https://dpghazi-wqu-ds.s3.amazonaws.com/linear-regression-with-time-series-data.html)
+* [Nairobi Part 3](https://dpghazi-wqu-ds.s3.amazonaws.com/autoregressive-models.html)
+* [Nairobi Part 4](https://dpghazi-wqu-ds.s3.amazonaws.com/arma-models-and-hyperparameter-tuning.html)
+* [Dar es Salaam](https://dpghazi-wqu-ds.s3.amazonaws.com/air-quality-in-dar-es-salaam.html)
